@@ -1,0 +1,13 @@
+/* styles/home.css */
+body {
+  background-color: white;
+  color: black;
+}
+
+h1 {
+  font-size: 2rem;
+}
+
+p {
+  font-size: 1rem;
+}
